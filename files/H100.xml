@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE harnesstransfer PUBLIC "-//Mentor Graphics Corporation//CHS Harness Transfer 2014.1//EN" "C:/MentorGraphics/CHS2014/dtd/harnesstransfer.dtd">
+<harnesstransfer physicalmapping="5.0" physicalmappingunits="mm">
+  <harnessname name="H100" id="_1"/>
+  <harnesstransferexternaldata/>
+  <virtualharness id="_1" name="H100" nameindex="100" fulllevelcount="0" fullmetrictype="" fullmetricvalue="0.0" optimizedmetrictype="" optimizedmetricvalue="0.0" giveawaymode="UNDEFINED" giveawayupperlimit="-1" managemodules="false" modified="4" baseid="UIDcbbff9-1623cb93797-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_2" modified="4" baseid="UIDcbbff9-1623cb93798-1ed30ffe71c1334d10649f684845770a"/>
+    <phd id="_3" baseid="UIDcbbff9-1623cb93799-1ed30ffe71c1334d10649f684845770a">
+      <node id="_4" name="N1" nameindex="1" connector_id="_5" baseid="UIDcbbff9-1623cb9379a-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N1" pokehome="false"/>
+      <node id="_6" name="N2" nameindex="2" connector_id="_7" baseid="UIDcbbff9-1623cb9379c-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="J36A-52TK" ismarker="0" node="N2" pokehome="false"/>
+      <node id="_8" name="N3" nameindex="3" connector_id="_9" baseid="UIDcbbff9-1623cb9379e-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N3" pokehome="false"/>
+      <node id="_10" name="N4" nameindex="4" connector_id="_11" baseid="UIDcbbff9-1623cb937a0-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N4" pokehome="false"/>
+      <node id="_12" name="N5" nameindex="5" connector_id="_13" baseid="UIDcbbff9-1623cb937a2-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N5" pokehome="false"/>
+      <node id="_14" name="N6" nameindex="6" connector_id="_15" baseid="UIDcbbff9-1623cb937a4-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N6" pokehome="false"/>
+      <node id="_16" name="N7" nameindex="7" connector_id="_17" baseid="UIDcbbff9-1623cb937a6-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N7" pokehome="false"/>
+      <node id="_18" name="N8" nameindex="8" connector_id="_19" baseid="UIDcbbff9-1623cb937a8-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N8" pokehome="false"/>
+      <node id="_20" name="N9" nameindex="9" connector_id="_21" baseid="UIDcbbff9-1623cb937aa-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N9" pokehome="false"/>
+      <node id="_22" name="N10" nameindex="10" connector_id="_23" baseid="UIDcbbff9-1623cb937ac-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N10" pokehome="false"/>
+      <node id="_24" name="N11" nameindex="11" connector_id="_25" baseid="UIDcbbff9-1623cb937ae-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N11" pokehome="false"/>
+      <node id="_26" name="N12" nameindex="12" connector_id="_27" baseid="UIDcbbff9-1623cb937b0-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N12" pokehome="false"/>
+      <node id="_28" name="N13" nameindex="13" connector_id="_29" baseid="UIDcbbff9-1623cb937b2-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N13" pokehome="false"/>
+      <node id="_30" name="N14" nameindex="14" connector_id="_31" baseid="UIDcbbff9-1623cb937b4-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N14" pokehome="false"/>
+      <node id="_32" name="N15" nameindex="15" connector_id="_33" baseid="UIDcbbff9-1623cb937b6-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N15" pokehome="false"/>
+      <node id="_34" name="N16" nameindex="16" connector_id="_35" baseid="UIDcbbff9-1623cb937b8-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N16" pokehome="false"/>
+      <node id="_36" name="N17" nameindex="17" connector_id="_37" baseid="UIDcbbff9-1623cb937ba-1ed30ffe71c1334d10649f684845770a" isreference="0" intepn="CX2-4M1 TK" ismarker="0" node="N17" pokehome="false"/>
+      <node id="_38" name="N18" nameindex="18" baseid="UIDcbbff9-1623cb937bc-1ed30ffe71c1334d10649f684845770a" isreference="0" ismarker="0" node="N18" pokehome="false"/>
+      <bundle id="_39" name="BUN1" nameindex="1" startnoderef="_6" endnoderef="_38" length="66.05925" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937bd-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_40" name="BUN2" nameindex="2" startnoderef="_4" endnoderef="_38" length="47037.909825" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937be-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_41" name="BUN3" nameindex="3" startnoderef="_8" endnoderef="_38" length="47057.909817" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937bf-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_42" name="BUN4" nameindex="4" startnoderef="_10" endnoderef="_38" length="47127.909788" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937c0-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_43" name="BUN5" nameindex="5" startnoderef="_12" endnoderef="_38" length="47147.90978" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937c1-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_44" name="BUN6" nameindex="6" startnoderef="_14" endnoderef="_38" length="47212.909754" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937c2-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_45" name="BUN7" nameindex="7" startnoderef="_16" endnoderef="_38" length="47232.909746" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937c3-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_46" name="BUN8" nameindex="8" startnoderef="_18" endnoderef="_38" length="47297.909719" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937c4-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_47" name="BUN9" nameindex="9" startnoderef="_20" endnoderef="_38" length="47317.909711" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937c5-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_48" name="BUN10" nameindex="10" startnoderef="_22" endnoderef="_38" length="47382.909685" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937c6-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_49" name="BUN11" nameindex="11" startnoderef="_24" endnoderef="_38" length="47402.909677" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937c7-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_50" name="BUN12" nameindex="12" startnoderef="_26" endnoderef="_38" length="47467.909651" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937c8-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_51" name="BUN13" nameindex="13" startnoderef="_28" endnoderef="_38" length="47487.909643" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937c9-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_52" name="BUN14" nameindex="14" startnoderef="_30" endnoderef="_38" length="44912.910733" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937ca-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_53" name="BUN15" nameindex="15" startnoderef="_32" endnoderef="_38" length="44892.910742" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937cb-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_54" name="BUN16" nameindex="16" startnoderef="_34" endnoderef="_38" length="44977.910704" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937cc-1ed30ffe71c1334d10649f684845770a"/>
+      <bundle id="_55" name="BUN17" nameindex="17" startnoderef="_36" endnoderef="_38" length="44997.910695" grang="0.0" variantindex="0" baseid="UIDcbbff9-1623cb937cd-1ed30ffe71c1334d10649f684845770a"/>
+    </phd>
+    <topoharness id="_56" connref="_1" spacing="1920" transform="1.0 0.0 0.0 1.0 0.0 0.0" x="0.0" y="0.0" attributeref="_57" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_58" thickness="3" thicknessunit="logical" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_59" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_60" thickness="3" thicknessunit="logical" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_57" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <toponode id="_61" connref="_38" x="1281600.0" y="-3218730.0" attributeref="_59" isexcludefromapplystyle="false"/>
+      <toponode id="_62" connref="_36" x="1297920.0" y="-2.049792E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_63" connref="_34" x="1297920.0" y="-2.049024E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_64" connref="_32" x="1297920.0" y="-2.04576E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_65" connref="_30" x="1297920.0" y="-2.046528E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_66" connref="_28" x="1297920.0" y="-2.145408E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_67" connref="_26" x="1297920.0" y="-2.14464E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_68" connref="_24" x="1297920.0" y="-2.142144E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_69" connref="_22" x="1297920.0" y="-2.141376E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_70" connref="_20" x="1297920.0" y="-2.13888E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_71" connref="_18" x="1297920.0" y="-2.138112E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_72" connref="_16" x="1297920.0" y="-2.135616E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_73" connref="_14" x="1297920.0" y="-2.134848E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_74" connref="_12" x="1297920.0" y="-2.132352E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_75" connref="_10" x="1297920.0" y="-2.131584E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_76" connref="_8" x="1297920.0" y="-2.128896E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_77" connref="_6" x="1272960.0" y="-3194880.0" attributeref="_57" isexcludefromapplystyle="false"/>
+      <toponode id="_78" connref="_4" x="1297920.0" y="-2.128128E7" attributeref="_57" isexcludefromapplystyle="false"/>
+      <topobundle id="_79" connref="_39" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_80" start="_77" end="_61" baseid="UIDcbbff9-1623cb937f6-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_81" connref="_40" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_82" start="_78" end="_61" baseid="UIDcbbff9-1623cb937f8-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_83" connref="_41" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_84" start="_76" end="_61" baseid="UIDcbbff9-1623cb937fa-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_85" connref="_42" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_86" start="_75" end="_61" baseid="UIDcbbff9-1623cb937fc-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_87" connref="_43" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_88" start="_74" end="_61" baseid="UIDcbbff9-1623cb937fe-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_89" connref="_44" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_90" start="_73" end="_61" baseid="UIDcbbff9-1623cb93800-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_91" connref="_45" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_92" start="_72" end="_61" baseid="UIDcbbff9-1623cb93802-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_93" connref="_46" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_94" start="_71" end="_61" baseid="UIDcbbff9-1623cb93804-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_95" connref="_47" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_96" start="_70" end="_61" baseid="UIDcbbff9-1623cb93806-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_97" connref="_48" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_98" start="_69" end="_61" baseid="UIDcbbff9-1623cb93808-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_99" connref="_49" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_100" start="_68" end="_61" baseid="UIDcbbff9-1623cb9380a-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_101" connref="_50" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_102" start="_67" end="_61" baseid="UIDcbbff9-1623cb9380c-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_103" connref="_51" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_104" start="_66" end="_61" baseid="UIDcbbff9-1623cb9380e-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_105" connref="_52" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_106" start="_65" end="_61" baseid="UIDcbbff9-1623cb93810-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_107" connref="_53" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_108" start="_64" end="_61" baseid="UIDcbbff9-1623cb93812-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_109" connref="_54" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_110" start="_63" end="_61" baseid="UIDcbbff9-1623cb93814-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+      <topobundle id="_111" connref="_55" attributeref="_60" isexcludefromapplystyle="false">
+        <toposegment id="_112" start="_62" end="_61" baseid="UIDcbbff9-1623cb93816-1ed30ffe71c1334d10649f684845770a" attributeref="_58"/>
+      </topobundle>
+    </topoharness>
+  </virtualharness>
+  <slot id="_113" name="TX408" nameindex="-1" slottype="normal" physicaltargetref="_114" modified="3" baseid="UIDcbbff9-1623cb9574d-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_115" modified="3" baseid="UIDcbbff9-1623cb9574f-1ed30ffe71c1334d10649f684845770a">
+      <device id="_114" name="TX408" nameindex="-1" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" baseid="UIDcbbff9-1623cb9574e-1ed30ffe71c1334d10649f684845770a" weight="0.0" architecturalcost="0.0" incbom="0">
+        <deviceconnector id="_116" name="TX408-X2" nameindex="-1" owner="_114" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb95750-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+        <deviceconnector id="_117" name="DC1" nameindex="1" owner="_114" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb95751-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+      </device>
+    </connectivity>
+    <connectorref connectorid="_118"/>
+    <connectorref connectorid="_119"/>
+    <toposlot id="_120" connref="_113" spacing="1920" transform="1.0 0.0 0.0 1.0 0.0 0.0" x="1297920.0" y="-2.129376E7" attributeref="_121" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_121" thickness="inherit" linestyle="inherit" fillpattern="solid" opaque="false">
+          <color value="black"/>
+          <fillcolor value="#ffffff"/>
+          <fillforegroundcolor value="#f0f0f0"/>
+        </ddattribute>
+        <ddattribute id="_122" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_123" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_124" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_125" nameref="Name" x="2880.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="2688.0" hjust="middle" vjust="top" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_124" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+      <rectangle x="0.0" y="0.0" width="5760.0" height="23220.0" transform="1.0 0.0 0.0 1.0 0.0 0.0" visibility="true"/>
+    </toposlot>
+  </slot>
+  <slot id="_126" name="X5Z" nameindex="-1" slottype="normal" physicaltargetref="_127" modified="3" baseid="UIDcbbff9-1623cb9533b-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_128" modified="3" baseid="UIDcbbff9-1623cb9533d-1ed30ffe71c1334d10649f684845770a">
+      <device id="_127" name="X5Z" nameindex="-1" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" baseid="UIDcbbff9-1623cb9533c-1ed30ffe71c1334d10649f684845770a" weight="0.0" architecturalcost="0.0" incbom="0">
+        <deviceconnector id="_129" name="X5Z-(T)" nameindex="-1" owner="_127" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb9533e-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+      </device>
+    </connectivity>
+    <connectorref connectorid="_130"/>
+    <toposlot id="_131" connref="_126" spacing="1920" transform="1.0 0.0 0.0 1.0 0.0 0.0" x="1272960.0" y="-3207120.0" attributeref="_132" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_132" thickness="inherit" linestyle="inherit" fillpattern="solid" opaque="false">
+          <color value="black"/>
+          <fillcolor value="#ffffff"/>
+          <fillforegroundcolor value="#f0f0f0"/>
+        </ddattribute>
+        <ddattribute id="_133" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_134" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_135" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_136" nameref="Name" x="2880.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="2688.0" hjust="middle" vjust="top" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_135" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+      <rectangle x="0.0" y="0.0" width="5760.0" height="23220.0" transform="1.0 0.0 0.0 1.0 0.0 0.0" visibility="true"/>
+    </toposlot>
+  </slot>
+  <slot id="_137" name="TX407" nameindex="-1" slottype="normal" physicaltargetref="_138" modified="3" baseid="UIDcbbff9-1623cb95759-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_139" modified="3" baseid="UIDcbbff9-1623cb9575b-1ed30ffe71c1334d10649f684845770a">
+      <device id="_138" name="TX407" nameindex="-1" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" baseid="UIDcbbff9-1623cb9575a-1ed30ffe71c1334d10649f684845770a" weight="0.0" architecturalcost="0.0" incbom="0">
+        <deviceconnector id="_140" name="TX407-X2" nameindex="-1" owner="_138" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb9575c-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+        <deviceconnector id="_141" name="DC1" nameindex="1" owner="_138" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb9575d-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+      </device>
+    </connectivity>
+    <connectorref connectorid="_142"/>
+    <connectorref connectorid="_143"/>
+    <toposlot id="_144" connref="_137" spacing="1920" transform="1.0 0.0 0.0 1.0 0.0 0.0" x="1297920.0" y="-2.132658E7" attributeref="_145" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_145" thickness="inherit" linestyle="inherit" fillpattern="solid" opaque="false">
+          <color value="black"/>
+          <fillcolor value="#ffffff"/>
+          <fillforegroundcolor value="#f0f0f0"/>
+        </ddattribute>
+        <ddattribute id="_146" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_147" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_148" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_149" nameref="Name" x="2880.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="2688.0" hjust="middle" vjust="top" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_148" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+      <rectangle x="0.0" y="0.0" width="5760.0" height="23220.0" transform="1.0 0.0 0.0 1.0 0.0 0.0" visibility="true"/>
+    </toposlot>
+  </slot>
+  <slot id="_150" name="TX406" nameindex="-1" slottype="normal" physicaltargetref="_151" modified="3" baseid="UIDcbbff9-1623cb95765-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_152" modified="3" baseid="UIDcbbff9-1623cb95767-1ed30ffe71c1334d10649f684845770a">
+      <device id="_151" name="TX406" nameindex="-1" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" baseid="UIDcbbff9-1623cb95766-1ed30ffe71c1334d10649f684845770a" weight="0.0" architecturalcost="0.0" incbom="0">
+        <deviceconnector id="_153" name="TX406-X2" nameindex="-1" owner="_151" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb95768-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+        <deviceconnector id="_154" name="DC1" nameindex="1" owner="_151" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb95769-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+      </device>
+    </connectivity>
+    <connectorref connectorid="_155"/>
+    <connectorref connectorid="_156"/>
+    <toposlot id="_157" connref="_150" spacing="1920" transform="1.0 0.0 0.0 1.0 0.0 0.0" x="1297920.0" y="-2.13594E7" attributeref="_158" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_158" thickness="inherit" linestyle="inherit" fillpattern="solid" opaque="false">
+          <color value="black"/>
+          <fillcolor value="#ffffff"/>
+          <fillforegroundcolor value="#f0f0f0"/>
+        </ddattribute>
+        <ddattribute id="_159" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_160" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_161" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_162" nameref="Name" x="2880.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="2688.0" hjust="middle" vjust="top" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_161" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+      <rectangle x="0.0" y="0.0" width="5760.0" height="23220.0" transform="1.0 0.0 0.0 1.0 0.0 0.0" visibility="true"/>
+    </toposlot>
+  </slot>
+  <slot id="_163" name="TX405" nameindex="-1" slottype="normal" physicaltargetref="_164" modified="3" baseid="UIDcbbff9-1623cb95771-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_165" modified="3" baseid="UIDcbbff9-1623cb95773-1ed30ffe71c1334d10649f684845770a">
+      <device id="_164" name="TX405" nameindex="-1" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" baseid="UIDcbbff9-1623cb95772-1ed30ffe71c1334d10649f684845770a" weight="0.0" architecturalcost="0.0" incbom="0">
+        <deviceconnector id="_166" name="TX405-X2" nameindex="-1" owner="_164" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb95774-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+        <deviceconnector id="_167" name="DC1" nameindex="1" owner="_164" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb95775-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+      </device>
+    </connectivity>
+    <connectorref connectorid="_168"/>
+    <connectorref connectorid="_169"/>
+    <toposlot id="_170" connref="_163" spacing="1920" transform="1.0 0.0 0.0 1.0 0.0 0.0" x="1297920.0" y="-2.139222E7" attributeref="_171" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_171" thickness="inherit" linestyle="inherit" fillpattern="solid" opaque="false">
+          <color value="black"/>
+          <fillcolor value="#ffffff"/>
+          <fillforegroundcolor value="#f0f0f0"/>
+        </ddattribute>
+        <ddattribute id="_172" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_173" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_174" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_175" nameref="Name" x="2880.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="2688.0" hjust="middle" vjust="top" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_174" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+      <rectangle x="0.0" y="0.0" width="5760.0" height="23220.0" transform="1.0 0.0 0.0 1.0 0.0 0.0" visibility="true"/>
+    </toposlot>
+  </slot>
+  <slot id="_176" name="TX308" nameindex="-1" slottype="normal" physicaltargetref="_177" modified="3" baseid="UIDcbbff9-1623cb9577d-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_178" modified="3" baseid="UIDcbbff9-1623cb9577f-1ed30ffe71c1334d10649f684845770a">
+      <device id="_177" name="TX308" nameindex="-1" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" baseid="UIDcbbff9-1623cb9577e-1ed30ffe71c1334d10649f684845770a" weight="0.0" architecturalcost="0.0" incbom="0">
+        <deviceconnector id="_179" name="TX308-X2" nameindex="-1" owner="_177" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb95780-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+        <deviceconnector id="_180" name="DC1" nameindex="1" owner="_177" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb95781-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+      </device>
+    </connectivity>
+    <connectorref connectorid="_181"/>
+    <connectorref connectorid="_182"/>
+    <toposlot id="_183" connref="_176" spacing="1920" transform="1.0 0.0 0.0 1.0 0.0 0.0" x="1297920.0" y="-2.142504E7" attributeref="_184" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_184" thickness="inherit" linestyle="inherit" fillpattern="solid" opaque="false">
+          <color value="black"/>
+          <fillcolor value="#ffffff"/>
+          <fillforegroundcolor value="#f0f0f0"/>
+        </ddattribute>
+        <ddattribute id="_185" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_186" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_187" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_188" nameref="Name" x="2880.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="2688.0" hjust="middle" vjust="top" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_187" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+      <rectangle x="0.0" y="0.0" width="5760.0" height="23220.0" transform="1.0 0.0 0.0 1.0 0.0 0.0" visibility="true"/>
+    </toposlot>
+  </slot>
+  <slot id="_189" name="TX307" nameindex="-1" slottype="normal" physicaltargetref="_190" modified="3" baseid="UIDcbbff9-1623cb95789-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_191" modified="3" baseid="UIDcbbff9-1623cb9578b-1ed30ffe71c1334d10649f684845770a">
+      <device id="_190" name="TX307" nameindex="-1" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" baseid="UIDcbbff9-1623cb9578a-1ed30ffe71c1334d10649f684845770a" weight="0.0" architecturalcost="0.0" incbom="0">
+        <deviceconnector id="_192" name="TX307-X2" nameindex="-1" owner="_190" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb9578c-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+        <deviceconnector id="_193" name="DC1" nameindex="1" owner="_190" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb9578d-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+      </device>
+    </connectivity>
+    <connectorref connectorid="_194"/>
+    <connectorref connectorid="_195"/>
+    <toposlot id="_196" connref="_189" spacing="1920" transform="1.0 0.0 0.0 1.0 0.0 0.0" x="1297920.0" y="-2.145786E7" attributeref="_197" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_197" thickness="inherit" linestyle="inherit" fillpattern="solid" opaque="false">
+          <color value="black"/>
+          <fillcolor value="#ffffff"/>
+          <fillforegroundcolor value="#f0f0f0"/>
+        </ddattribute>
+        <ddattribute id="_198" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_199" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_200" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_201" nameref="Name" x="2880.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="2688.0" hjust="middle" vjust="top" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_200" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+      <rectangle x="0.0" y="0.0" width="5760.0" height="23220.0" transform="1.0 0.0 0.0 1.0 0.0 0.0" visibility="true"/>
+    </toposlot>
+  </slot>
+  <slot id="_202" name="TX306" nameindex="-1" slottype="normal" physicaltargetref="_203" modified="3" baseid="UIDcbbff9-1623cb956e5-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_204" modified="3" baseid="UIDcbbff9-1623cb956e7-1ed30ffe71c1334d10649f684845770a">
+      <device id="_203" name="TX306" nameindex="-1" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" baseid="UIDcbbff9-1623cb956e6-1ed30ffe71c1334d10649f684845770a" weight="0.0" architecturalcost="0.0" incbom="0">
+        <deviceconnector id="_205" name="TX306-X1" nameindex="-1" owner="_203" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb956e8-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+        <deviceconnector id="_206" name="DC1" nameindex="1" owner="_203" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb956e9-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+      </device>
+    </connectivity>
+    <connectorref connectorid="_207"/>
+    <connectorref connectorid="_208"/>
+    <toposlot id="_209" connref="_202" spacing="1920" transform="1.0 0.0 0.0 1.0 0.0 0.0" x="1297920.0" y="-2.046882E7" attributeref="_210" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_210" thickness="inherit" linestyle="inherit" fillpattern="solid" opaque="false">
+          <color value="black"/>
+          <fillcolor value="#ffffff"/>
+          <fillforegroundcolor value="#f0f0f0"/>
+        </ddattribute>
+        <ddattribute id="_211" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_212" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_213" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_214" nameref="Name" x="2880.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="2688.0" hjust="middle" vjust="top" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_213" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+      <rectangle x="0.0" y="0.0" width="5760.0" height="23220.0" transform="1.0 0.0 0.0 1.0 0.0 0.0" visibility="true"/>
+    </toposlot>
+  </slot>
+  <slot id="_215" name="TX305" nameindex="-1" slottype="normal" physicaltargetref="_216" modified="3" baseid="UIDcbbff9-1623cb956f1-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_217" modified="3" baseid="UIDcbbff9-1623cb956f3-1ed30ffe71c1334d10649f684845770a">
+      <device id="_216" name="TX305" nameindex="-1" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" baseid="UIDcbbff9-1623cb956f2-1ed30ffe71c1334d10649f684845770a" weight="0.0" architecturalcost="0.0" incbom="0">
+        <deviceconnector id="_218" name="TX305-X2" nameindex="-1" owner="_216" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb956f4-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+        <deviceconnector id="_219" name="DC1" nameindex="1" owner="_216" libraryref="" partnumber="" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" baseid="UIDcbbff9-1623cb956f5-1ed30ffe71c1334d10649f684845770a" isconnectorassembly="false" quantity="1.0" connectorusage="Connector"/>
+      </device>
+    </connectivity>
+    <connectorref connectorid="_220"/>
+    <connectorref connectorid="_221"/>
+    <toposlot id="_222" connref="_215" spacing="1920" transform="1.0 0.0 0.0 1.0 0.0 0.0" x="1297920.0" y="-2.050164E7" attributeref="_223" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_223" thickness="inherit" linestyle="inherit" fillpattern="solid" opaque="false">
+          <color value="black"/>
+          <fillcolor value="#ffffff"/>
+          <fillforegroundcolor value="#f0f0f0"/>
+        </ddattribute>
+        <ddattribute id="_224" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_225" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+        <ddattribute id="_226" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_227" nameref="Name" x="2880.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="2688.0" hjust="middle" vjust="top" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_226" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+      <rectangle x="0.0" y="0.0" width="5760.0" height="23220.0" transform="1.0 0.0 0.0 1.0 0.0 0.0" visibility="true"/>
+    </toposlot>
+  </slot>
+  <virtualconnector id="_142" name="TX407-X2" nameindex="-1" deviceconnectorref="_140" harnessconnectorref="_11" slotref="_137" integral="false" modified="3" baseid="UIDcbbff9-1623cb9575e-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_228" modified="3" baseid="UIDcbbff9-1623cb96453-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_11" name="TX407-X2" nameindex="-1" type="plug" owner="_138" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937a1-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_10"/>
+    <topovirtualconnector id="_229" connref="_142" toposlotref="_144" x="0.0" y="11700.0" attributeref="_230" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_231" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_230" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_232" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_231" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_143" name="TX407-X1" nameindex="-1" deviceconnectorref="_141" harnessconnectorref="_13" slotref="_137" integral="false" modified="3" baseid="UIDcbbff9-1623cb9575f-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_233" modified="3" baseid="UIDcbbff9-1623cb9645b-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_13" name="TX407-X1" nameindex="-1" type="plug" owner="_138" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937a3-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_12"/>
+    <topovirtualconnector id="_234" connref="_143" toposlotref="_144" x="0.0" y="4020.0" attributeref="_235" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_236" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_235" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_237" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_236" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_130" name="X5Z-(T)" nameindex="-1" deviceconnectorref="_129" harnessconnectorref="_7" slotref="_126" integral="false" modified="3" baseid="UIDcbbff9-1623cb95340-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_238" modified="3" baseid="UIDcbbff9-1623cb95efb-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_7" name="X5Z-(T)" nameindex="-1" type="plug" owner="_127" libraryref="" partnumber="J36A-52TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb9379d-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="J36A-52TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_6"/>
+    <topovirtualconnector id="_239" connref="_130" toposlotref="_131" x="0.0" y="11700.0" attributeref="_240" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_241" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_240" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_242" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_241" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_194" name="TX307-X1" nameindex="-1" deviceconnectorref="_193" harnessconnectorref="_29" slotref="_189" integral="false" modified="3" baseid="UIDcbbff9-1623cb9578f-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_243" modified="3" baseid="UIDcbbff9-1623cb9649b-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_29" name="TX307-X1" nameindex="-1" type="plug" owner="_190" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937b3-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_28"/>
+    <topovirtualconnector id="_244" connref="_194" toposlotref="_196" x="0.0" y="4020.0" attributeref="_245" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_246" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_245" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_247" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_246" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_195" name="TX307-X2" nameindex="-1" deviceconnectorref="_192" harnessconnectorref="_27" slotref="_189" integral="false" modified="3" baseid="UIDcbbff9-1623cb9578e-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_248" modified="3" baseid="UIDcbbff9-1623cb96493-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_27" name="TX307-X2" nameindex="-1" type="plug" owner="_190" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937b1-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_26"/>
+    <topovirtualconnector id="_249" connref="_195" toposlotref="_196" x="0.0" y="11700.0" attributeref="_250" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_251" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_250" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_252" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_251" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_220" name="TX305-X2" nameindex="-1" deviceconnectorref="_218" harnessconnectorref="_35" slotref="_215" integral="false" modified="3" baseid="UIDcbbff9-1623cb956f6-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_253" modified="3" baseid="UIDcbbff9-1623cb963c5-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_35" name="TX305-X2" nameindex="-1" type="plug" owner="_216" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937b9-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_34"/>
+    <topovirtualconnector id="_254" connref="_220" toposlotref="_222" x="0.0" y="11700.0" attributeref="_255" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_256" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_255" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_257" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_256" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_221" name="TX305-X1" nameindex="-1" deviceconnectorref="_219" harnessconnectorref="_37" slotref="_215" integral="false" modified="3" baseid="UIDcbbff9-1623cb956f7-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_258" modified="3" baseid="UIDcbbff9-1623cb963cd-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_37" name="TX305-X1" nameindex="-1" type="plug" owner="_216" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937bb-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_36"/>
+    <topovirtualconnector id="_259" connref="_221" toposlotref="_222" x="0.0" y="4020.0" attributeref="_260" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_261" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_260" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_262" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_261" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_207" name="TX306-X1" nameindex="-1" deviceconnectorref="_205" harnessconnectorref="_33" slotref="_202" integral="false" modified="3" baseid="UIDcbbff9-1623cb956ea-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_263" modified="3" baseid="UIDcbbff9-1623cb963b5-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_33" name="TX306-X1" nameindex="-1" type="plug" owner="_203" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937b7-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_32"/>
+    <topovirtualconnector id="_264" connref="_207" toposlotref="_209" x="0.0" y="11700.0" attributeref="_265" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_266" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_265" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_267" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_266" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_208" name="TX306-X2" nameindex="-1" deviceconnectorref="_206" harnessconnectorref="_31" slotref="_202" integral="false" modified="3" baseid="UIDcbbff9-1623cb956eb-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_268" modified="3" baseid="UIDcbbff9-1623cb963bd-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_31" name="TX306-X2" nameindex="-1" type="plug" owner="_203" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937b5-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_30"/>
+    <topovirtualconnector id="_269" connref="_208" toposlotref="_209" x="0.0" y="4020.0" attributeref="_270" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_271" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_270" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_272" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_271" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_181" name="TX308-X2" nameindex="-1" deviceconnectorref="_179" harnessconnectorref="_23" slotref="_176" integral="false" modified="3" baseid="UIDcbbff9-1623cb95782-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_273" modified="3" baseid="UIDcbbff9-1623cb96483-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_23" name="TX308-X2" nameindex="-1" type="plug" owner="_177" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937ad-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_22"/>
+    <topovirtualconnector id="_274" connref="_181" toposlotref="_183" x="0.0" y="11700.0" attributeref="_275" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_276" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_275" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_277" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_276" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_182" name="TX308-X1" nameindex="-1" deviceconnectorref="_180" harnessconnectorref="_25" slotref="_176" integral="false" modified="3" baseid="UIDcbbff9-1623cb95783-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_278" modified="3" baseid="UIDcbbff9-1623cb9648b-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_25" name="TX308-X1" nameindex="-1" type="plug" owner="_177" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937af-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_24"/>
+    <topovirtualconnector id="_279" connref="_182" toposlotref="_183" x="0.0" y="4020.0" attributeref="_280" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_281" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_280" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_282" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_281" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_118" name="TX408-X2" nameindex="-1" deviceconnectorref="_116" harnessconnectorref="_5" slotref="_113" integral="false" modified="3" baseid="UIDcbbff9-1623cb95752-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_283" modified="3" baseid="UIDcbbff9-1623cb96443-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_5" name="TX408-X2" nameindex="-1" type="plug" owner="_114" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb9379b-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_4"/>
+    <topovirtualconnector id="_284" connref="_118" toposlotref="_120" x="0.0" y="11700.0" attributeref="_285" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_286" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_285" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_287" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_286" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_119" name="TX408-X1" nameindex="-1" deviceconnectorref="_117" harnessconnectorref="_9" slotref="_113" integral="false" modified="3" baseid="UIDcbbff9-1623cb95753-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_288" modified="3" baseid="UIDcbbff9-1623cb9644b-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_9" name="TX408-X1" nameindex="-1" type="plug" owner="_114" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb9379f-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_8"/>
+    <topovirtualconnector id="_289" connref="_119" toposlotref="_120" x="0.0" y="4020.0" attributeref="_290" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_291" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_290" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_292" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_291" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_155" name="TX406-X2" nameindex="-1" deviceconnectorref="_153" harnessconnectorref="_15" slotref="_150" integral="false" modified="3" baseid="UIDcbbff9-1623cb9576a-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_293" modified="3" baseid="UIDcbbff9-1623cb96463-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_15" name="TX406-X2" nameindex="-1" type="plug" owner="_151" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937a5-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_14"/>
+    <topovirtualconnector id="_294" connref="_155" toposlotref="_157" x="0.0" y="11700.0" attributeref="_295" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_296" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_295" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_297" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_296" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_156" name="TX406-X1" nameindex="-1" deviceconnectorref="_154" harnessconnectorref="_17" slotref="_150" integral="false" modified="3" baseid="UIDcbbff9-1623cb9576b-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_298" modified="3" baseid="UIDcbbff9-1623cb9646b-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_17" name="TX406-X1" nameindex="-1" type="plug" owner="_151" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937a7-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_16"/>
+    <topovirtualconnector id="_299" connref="_156" toposlotref="_157" x="0.0" y="4020.0" attributeref="_300" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_301" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_300" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_302" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_301" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_168" name="TX405-X2" nameindex="-1" deviceconnectorref="_166" harnessconnectorref="_19" slotref="_163" integral="false" modified="3" baseid="UIDcbbff9-1623cb95776-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_303" modified="3" baseid="UIDcbbff9-1623cb96473-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_19" name="TX405-X2" nameindex="-1" type="plug" owner="_164" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937a9-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_18"/>
+    <topovirtualconnector id="_304" connref="_168" toposlotref="_170" x="0.0" y="11700.0" attributeref="_305" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_306" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_305" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_307" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_306" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+  <virtualconnector id="_169" name="TX405-X1" nameindex="-1" deviceconnectorref="_167" harnessconnectorref="_21" slotref="_163" integral="false" modified="3" baseid="UIDcbbff9-1623cb95777-1ed30ffe71c1334d10649f684845770a">
+    <connectivity id="_308" modified="3" baseid="UIDcbbff9-1623cb9647b-1ed30ffe71c1334d10649f684845770a">
+      <connector id="_21" name="TX405-X1" nameindex="-1" type="plug" owner="_164" libraryref="" partnumber="CX2-4M1 TK" customerpartnumber="" customername="" supplierpartnumber="" suppliername="" weight="0.0" architecturalcost="0.0" incbom="1" issealed="false" datum="Default" isplugged="false" isgreased="false" isbackshellplugged="false" harness="H100" baseid="UIDcbbff9-1623cb937ab-1ed30ffe71c1334d10649f684845770a" connectorusage="Connector" isconnectorassembly="false" generationtype="userdefined" quantity="1.0">
+        <property name="电缆网型号" val="CX2-4M1 TK" type="String" stability="editable"/>
+      </connector>
+    </connectivity>
+    <harnessnoderef nodeid="_20"/>
+    <topovirtualconnector id="_309" connref="_169" toposlotref="_170" x="0.0" y="4020.0" attributeref="_310" isexcludefromapplystyle="false">
+      <datadictionary>
+        <ddattribute id="_311" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false">
+          <color value="black"/>
+        </ddattribute>
+        <ddattribute id="_310" thickness="inherit" linestyle="inherit" fillpattern="inherit" opaque="false"/>
+      </datadictionary>
+      <attributetext id="_312" nameref="Name" x="3072.0" y="0.0" rotation="0" boxing="OVERFLOW" wrap="NO_WRAP" recenter="true" height="1920.0" hjust="middle" vjust="center" font="Lucida Sans" style="plain" autoflip="true" visibility="true" attributeref="_311" roundingtype="None" decimalplaces="Inherit" decimaldelimiter="Inherit" isdatumtext="false" isexcludefromapplystyle="false"/>
+    </topovirtualconnector>
+  </virtualconnector>
+</harnesstransfer>

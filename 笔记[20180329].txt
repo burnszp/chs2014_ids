@@ -1,0 +1,56 @@
+IntegratorDesign2_20180329设计中
+研究Plane下Plane1/Harness/H714的效果优化问题
+该电缆包含一个Node:N1526和四个BUndle｛BUN205、BUN206、BUN207、BUN208｝
+
+涉及到两个设备｛DEV300、DEV302｝
+
+1、设备坐标及宽高
+DEV300:{x:-53760.0、y:11520.0、width:17280.0、height:21120.0}
+DEV302:{x:-19200.0、y:-9600.0、width:19200.0、height:15360.0}
+
+2、由1得出设备的四个角的坐标位置：
+DEV300:{左上｛x:-53760.0、y:32640.0｝：左下：{x:-53760.0、y:11520.0}右上：{x:-36480.0、y:32640.0}右下：{x:-36480.0、y:11520.0}}
+
+BUN205{startnode:{x：-36480.0  y:15360.0}、endnode{x:-30720.0、y:7680.0}}
+
+
+DEV302:{左上｛x:-19200.0、y:5760.0｝：左下：{x:-19200.0、y:-9600.0}右上：{x:0.0、y:5760.0}右下：{x:0.0、y:-9600.0}}
+
+BUN206{startnode:{x：-30720.0  y:7680.0}、endnode{x:-19200.0、y:0.0}}
+BUN207{startnode:{x：-30720.0  y:7680.0}、endnode{x:-19200.0、y:-5760.0}}
+BUN208{startnode:{x：-30720.0  y:7680.0}、endnode{x:-13440.0、y:5760.0}}
+
+
+3、根据BUN205的startnode、BUN206~BUN208的endnode，通过x、y的平均值得到node{N1526}的坐标。
+N1526:{x:-30720.0、y:7680.0}——>{x:-22080.0、y:3840.0}
+
+4、根据node{N1526}和BUN205~BUN208的另外一个点及其关联设备的四个角的坐标关系，得到各个Bundle的折线关系
+BUN205{startnode:{x:-36480.0、y:15360.0}、midnode{x:-22080.0、y:15360.0}、endnode{x:-22080.0、y:3840.0}}
+BUN206{startnode:{x:-22080.0、y:3840.0}、midnode{x:-22080.0、y:0.0}、endnode{x:-19200.0、y:0.0}}
+BUN207{startnode:{x:-22080.0、y:3840.0}、midnode{x:-22080.0、y:-5760.0}、endnode{x:-19200.0、y:-5760.0}}
+BUN208{startnode:{x:-22080.0、y:3840.0}、midnode{x:-22080.0、y:5760.0}、endnode{x:-13440.0、y:5760.0}}
+
+
+<toposegment id="_109" start="_103" end="_105" baseid="UID673a06-1626f677ec2-1ed30ffe71c1334d10649f684845770a" attributeref="_102"/>
+
+<topojoint id="_100" x="-11520.0" y="17280.0"/>
+
+
+-----------------------------------------------
+
+一、获取每根电缆两端关联的设备。
+H701电缆
+virtualharness:{{id:_116}、{name:H701}、{nameindex:701}、}
+
+virtualharness/topoharness/toponode
+1、｛｛id:_128｝、｛connref:_121｝｝——>virtualconnector{{id:_193}、{name:P601}}
+2、｛｛id:_129｝、｛connref:_119｝｝
+3、｛｛id:_130｝、｛connref:_123｝｝
+
+virtualharness/topoharness/topobundle
+1、｛｛id:_131｝、｛connref:_124｝｝
+	toposegment:{{id:_132}、｛start:_129｝、｛end:_130｝}
+	toposegment:{{id:_133}、｛start:_130｝、｛end:_128｝}
+
+
+
